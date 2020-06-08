@@ -3,6 +3,7 @@ node_modules/
 
 # compiled output
 /build
+build/
 /dist
 /documentation
 /doc
