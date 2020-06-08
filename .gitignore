@@ -1,6 +1,14 @@
 # dependencies
 node_modules/
 
+# compiled output
+/dist
+/documentation
+/doc
+/server/tmp/*
+/out-tsc
+/environmentDoc
+/tmp
 
 # IDEs and editors
 /.idea
