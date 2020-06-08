@@ -2,6 +2,7 @@
 node_modules/
 
 # compiled output
+/build
 /dist
 /documentation
 /doc
@@ -21,3 +22,11 @@ node_modules/
 *.launch
 .settings/
 *.sublime-workspaces
+
+# IDE - VSCode
+.vscode/*
+.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
